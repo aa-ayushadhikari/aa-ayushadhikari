@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Aayush Adhikari
 
-<!--
-**aa-ayushadhikari/aa-ayushadhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate full-stack developer with a focus on modern web technologies and scalable backend systems.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Frontend**: Next.js, React, Tailwind CSS
+- ⚙️ **Backend**: Node.js, Express
+- 🧠 **Languages**: JavaScript, TypeScript, C#
+- 🗄️ **Database**: MongoDB, PostgreSQL
+- 🔧 **Tools**: Git, GitHub, Visual Studio, VS Code, Linux, REST APIs
+
+## 📈 GitHub Stats
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa-ayushadhikari&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- Email: [adhikariayush417@gmail.com]
+
+> ⚡ Fun fact: I love building web apps that solve real-world problems.
